@@ -5,7 +5,7 @@
 
 ## Authors:
 
-> **Youssef Ali Bazina**
+> **Youssef Ali Bazina**.
 
 ## Table of Contents
 
